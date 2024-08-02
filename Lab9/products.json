@@ -1,0 +1,30 @@
+{"_id":1,"name":"Skewers - Bamboo","price":14,"type":["Consumer Services","Health Care"]}
+{"_id":2,"name":"Beer - Muskoka Cream Ale","price":21}
+{"_id":3,"name":"Wine - Red, Gallo, Merlot","price":26}
+{"_id":4,"name":"Magnotta - Bel Paese White","price":23,"type":"Consumer Services"}
+{"_id":5,"name":"Tuna - Canned, Flaked, Light","price":25}
+{"_id":6,"name":"Nut - Pumpkin Seeds","price":27,"type":"Consumer Services"}
+{"_id":7,"name":"Red Currants","price":5,"type":"Public Utilities"}
+{"_id":8,"name":"Sprouts - Peppercress","price":2,"type":"Technology"}
+{"_id":9,"name":"Lemonade - Strawberry, 591 Ml","price":2,"type":"Finance"}
+{"_id":10,"name":"Bread - Dark Rye, Loaf","price":15,"type":"Health Care"}
+{"_id":11,"name":"Pancetta","price":22,"type":"Finance"}
+{"_id":12,"name":"Bagel - Plain","price":13}
+{"_id":13,"name":"Nori Sea Weed - Gold Label","price":25}
+{"_id":14,"name":"Lime Cordial - Roses","price":12,"type":"Capital Goods"}
+{"_id":15,"name":"Cookie - Oatmeal","price":21,"type":"Finance"}
+{"_id":16,"name":"Wine - Prosecco Valdobienne","price":4,"type":"Health Care"}
+{"_id":17,"name":"Dr. Pepper - 355ml","price":19}
+{"_id":18,"name":"Compound - Mocha","price":25}
+{"_id":19,"name":"Beans - Wax","price":6,"type":"Capital Goods"}
+{"_id":20,"name":"Soup - French Onion","price":12,"type":"Health Care"}
+{"_id":21,"name":"Island Oasis - Strawberry","price":5}
+{"_id":22,"name":"Wine - Chianti Classico Riserva","price":28,"type":"Consumer Durables"}
+{"_id":23,"name":"Sprouts - Brussel","price":3}
+{"_id":24,"name":"Hersey Shakes","price":23,"type":"n/a"}
+{"_id":25,"name":"Ketchup - Tomato","price":17,"type":"Basic Industries"}
+{"_id":26,"name":"Chocolate - Milk","price":15,"type":"n/a"}
+{"_id":27,"name":"Beer - Moosehead","price":5,"type":"Health Care"}
+{"_id":28,"name":"Wine - Alsace Riesling Reserve","price":18}
+{"_id":29,"name":"Squeeze Bottle","price":5,"type":"Health Care"}
+{"_id":30,"name":"Flour - Teff","price":30}
